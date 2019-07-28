@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Note Keeper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Note Keeper</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Edit Profile</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_logout">Log Out</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="discard">Discard</string>
+    <string name="edit">Edit</string>
+
+    <string name="quote_header">Heading</string>
+    <string name="quote">Write your note\n\n\n\n\n\n\n</string>
+    <string name="title_activity_note_edit">NoteEditActivity</string>
+    <string name="login">Login</string>
+    <string name="hint_enter_password">Enter The Password</string>
+
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="pwd">Password</string>
+    <string name="c_pwd">Confirm The Password</string>
+    <string name="auto_log_des">You can turn off login feature by enable Auto Login</string>
+    <string name="auto_login">Auto Login</string>
+
+    <string name="noteHeader">Note Header Here</string>
+    <string name="noteContent">Write your note</string>
+    <string name="createdOn">Created On</string>
+
+    <string name="welcomeNote">Welcome To Note Keeper</string>
+    <string name="welcomeSubNote">Let\'s Make Your Data Safe</string>
+</resources>
